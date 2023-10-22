@@ -3,8 +3,6 @@
 #such as “I would like to own a Honda motorcycle.”
 
 cars = ["Porsche", "Ford", "BMW", "Mercedes", "Audi"]
-cars = ["Porsche","Ford","BMW","Mercedes","Audi"]
 
-print(f"I would like to own a {cars}.")for car in cars:
 for car in cars:
     print(f"I would like to own a {car}.")
