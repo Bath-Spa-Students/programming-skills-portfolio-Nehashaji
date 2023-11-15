@@ -3,7 +3,6 @@
 #Then print the name using each of the three stripping functions, lstrip(), rstrip(), and strip().
 
 name = "\tNeha V Shaji\n"
-
 print("Unmodified:")
 print(name)
 
