@@ -18,7 +18,7 @@ print(name + ", I would like you to join for dinner.")
 name = guests[1].title()
 print(f"\nSorry, {name} can't make it to dinner.")
 
-# Miko can't make it! Let's invite Riya instead.
+# Miko can't make it! Let's invite Riya instead. 
 del(guests[1])
 guests.insert(1,'Riya')
 
