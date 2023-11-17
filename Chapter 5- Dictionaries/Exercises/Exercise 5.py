@@ -13,3 +13,5 @@ my_pets = [
 for pet in my_pets:
     print(f"Kind of Animal: {pet['kind']}")
     print(f"Owner's Name: {pet['owner']}\n")
+
+    
