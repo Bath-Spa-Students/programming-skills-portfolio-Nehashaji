@@ -22,3 +22,5 @@ if 'green' in alien_color:
 	print("You just earned 5 points for shooting the alien.")
 else: 
 	print(" Congratulations ! You  earned 10 points.")
+
+	

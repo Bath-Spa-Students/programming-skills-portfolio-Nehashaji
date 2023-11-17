@@ -17,3 +17,5 @@ if 'Apple' in favorite_fruits:
     print("You really like Apple!")
 if 'Banana' in favorite_fruits:
     print("You really like Banana!")
+
+print("Congratulations ! You earned 5 points")
