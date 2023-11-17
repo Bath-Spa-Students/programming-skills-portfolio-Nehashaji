@@ -3,6 +3,7 @@
 a="Neha"
 b="Shaji"
 c="Creative computing"
-d="bathsprak"
+d="bathsparak"
 
 print(a,b,c,d)
+
