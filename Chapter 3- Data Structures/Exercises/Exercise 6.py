@@ -31,3 +31,4 @@ del guests[:]
 
 #print your list to make sure it's empty 
 print ("Guest list:" , guests)
+
