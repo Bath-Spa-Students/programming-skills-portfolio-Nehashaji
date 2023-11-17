@@ -14,3 +14,4 @@ print(name.rstrip())
 
 print("\nUsing strip():")
 print(name.strip())
+
